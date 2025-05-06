@@ -1,16 +1,27 @@
-## Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<!--
-**holasara/holasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Saraswathi!
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,react,html,css,python,spring,aws,sql,maven,cpp,c)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I’m Saraswathi, a passionate and driven **Java Full Stack Developer** who thrives on building efficient, scalable, and elegant software solutions.
+
+I’m always exploring new technologies, curious to understand how things work under the hood, and love taking on new challenges that push my limits.
+
+### 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, Python, C++, C
+- **Frontend:** React, HTML5, CSS3
+- **Backend & Frameworks:** Spring Boot, Maven
+- **Cloud & Tools:** AWS, SQL, Git
+- **Others:** AI, NLP, RESTful APIs, Object-Oriented Programming
+
+### 🌱 Always Learning
+Whether it's AI, NLP, or cloud technologies—I'm constantly learning and adapting to stay ahead in the fast-evolving tech world. I believe in the power of continuous improvement and love sharing what I learn with the community.
+
+### 🤝 Let’s Connect!
+- 💬 Ask me about full stack development, backend design, or anything tech-related
+- 📫 Reach me at: [your.email@example.com] *(update with your email)*
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+
