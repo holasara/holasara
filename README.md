@@ -19,7 +19,7 @@ Whether it's AI, NLP, or cloud technologies—I'm constantly learning and adapti
 
 ### 🤝 Let’s Connect!
 - 💬 Ask me about full stack development, backend design, or anything tech-related
-- 📫 Reach me at: [sb1058@gmail.com] *(update with your email)*
+- 📫 Reach me at: [sb1058@gmail.com] 
 
 ---
 
